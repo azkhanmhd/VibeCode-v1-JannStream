@@ -1,0 +1,17 @@
+{
+  "name": "vibecode-v1-jannstream",
+  "version": "1.0.0",
+  "description": "A Node.js app to download MP4s from URL and stream them in chunks for smooth playback.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Azkhan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "request": "^2.88.2"
+  }
+}
