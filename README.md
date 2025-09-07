@@ -32,7 +32,7 @@ npm install
 
 3. Start the server:
 ```bash
-npm install
+npm start
 ```
 
 4. Open the web interface in your browser:
